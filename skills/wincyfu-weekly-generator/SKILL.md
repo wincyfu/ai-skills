@@ -1,9 +1,9 @@
 ---
-name: futalk-weekly-generator
+name: wincyfu-weekly-generator
 description: Generate, review, and package a structured AI/design weekly issue while loading source lists, owner links, publishing adapters, and account details from private local configuration. Use for weekly issue generation, regeneration, item replacement, local review, or an explicitly authorized draft sync.
 ---
 
-# FuTalk Weekly Generator
+# WincyFu Weekly Generator
 
 Create an evidence-backed AI/design weekly issue without embedding the owner's private source registry or publishing configuration in the Skill.
 

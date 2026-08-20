@@ -1,4 +1,0 @@
-interface:
-  display_name: "FuTalk Weekly Generator"
-  short_description: "Generate a private-source AI/design weekly issue."
-  default_prompt: "Use $futalk-weekly-generator to generate this week's local review package."

@@ -4,7 +4,7 @@ Reusable AI workflow skills maintained by WincyFu.
 
 ## Skills
 
-- [`futalk-weekly-generator`](skills/futalk-weekly-generator/) — generate and review a structured AI/design weekly issue while keeping private sources and publishing configuration outside the repository.
+- [`wincyfu-weekly-generator`](skills/wincyfu-weekly-generator/) — generate and review a structured AI/design weekly issue while keeping private sources and publishing configuration outside the repository.
 
 ## Privacy model
 

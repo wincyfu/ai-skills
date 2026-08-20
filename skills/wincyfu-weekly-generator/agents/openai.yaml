@@ -1,0 +1,4 @@
+interface:
+  display_name: "WincyFu Weekly Generator"
+  short_description: "Generate a private-source AI/design weekly issue."
+  default_prompt: "Use $wincyfu-weekly-generator to generate this week's local review package."
