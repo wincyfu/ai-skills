@@ -1,0 +1,21 @@
+{
+  "publication": {
+    "name": "YOUR_PUBLICATION_NAME",
+    "timezone": "Asia/Shanghai"
+  },
+  "source_registry_files": [
+    "/absolute/private/path/sources.json"
+  ],
+  "owner_intake_files": [],
+  "private_rule_files": [],
+  "validation_commands": [
+    "your-local-validator --run-dir <run-dir>"
+  ],
+  "publishing": {
+    "adapter_command": "your-private-draft-adapter",
+    "expected_account": "YOUR_EXPECTED_ACCOUNT",
+    "credential_files": [
+      "/absolute/private/path/credential-file"
+    ]
+  }
+}

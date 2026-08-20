@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+
+# Private runtime inputs and local overrides
+.private/
+private/
+secrets/
+credentials/
+*.local.json
+*.local.yaml
+*.local.yml
+*.private.json
+*.private.yaml
+*.private.yml
+.env
+.env.*
+
+# Generated weekly content and evidence
+issues/
+output/
+drafts/
+raw/
+artifacts/
+*.log
